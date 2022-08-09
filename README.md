@@ -2,7 +2,7 @@
 
 Repository ini berisi pengalaman belajarku di Dicoding
 
-** 14 Juni 2021**
+**14 Juni 2021**
 
 Belajar kelas Memulai pemrograman dengan Java
   * Belajar tentang apa itu Java dan alasan menggunakannya
